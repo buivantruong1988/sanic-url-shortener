@@ -76,4 +76,4 @@ Run the app
 $ POSTGRES_USER=url POSTGRES_PASSWORD=secret DEBUG=True python app.py
 ```
 
-
+sanic-url-shortener-a
